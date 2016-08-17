@@ -1,4 +1,4 @@
-FROM leanft:12.54
+FROM razielt/demochat_ft:master
 
 COPY . /scripts
 
